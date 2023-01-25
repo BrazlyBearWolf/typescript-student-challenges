@@ -1,4 +1,4 @@
-# typescript-student-challenges
+# TypeScript Challenges
 
 A collection of short challenges to get used to coding with TypeScript.
 
@@ -6,9 +6,11 @@ Each challenge is designed to help you solve some common real-life problems. By 
 
 ## Getting started
 
-The easiest place to try out this code is in the online TypeScript playground. Be aware that _your code will not save here_. Once you have completed a challenge, copy and save the code somewhere on your machine for future reference.
+The easiest place to try out this code is in the [online TypeScript playground](https://www.typescriptlang.org/play/). Be aware that _your code will not save here_. Once you have completed a challenge, copy and save the code somewhere on your machine for future reference.
 
 You will need to use your online research skills to find solutions to these problems. Think carefully about how you will word your searches to get the best results returned to you.
+
+## The code challenges
 
 ### 1. `minValue()` and `maxValue()`
 
